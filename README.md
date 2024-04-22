@@ -10,7 +10,7 @@
 * Go to extensions and **DO NOT** get ```NuGet Package Manager``` - This was needed to be able to use .Net Core packages. Like xUnit in this case. *(This one is bugged and no longer worked on by the author and does not work due to casing issues in its fetch)*
 * Instead use ```Visual NuGet``` extension.
 
-### Step 2
+### Step 2 - Start up .net environment
 
 * Open up a terminal and type following command -> ```dotnet new console```.
 * This will give you the needed tools like .net debug etc and set up your environment with the necessary files to run a .net C# program.
