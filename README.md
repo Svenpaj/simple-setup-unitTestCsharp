@@ -20,7 +20,7 @@
 * *Assuming you have created some functions in your program class or other classes with logic.*
 
 * Right-click on your .csproj file and select Visual NuGet: Manage Packages 
-    - From there search for ```Microsot.NET.Test.Sdk``` and download.
+    - From there search for ```Microsoft.NET.Test.Sdk``` and download.
     - From there search for ```xUnit``` and download.
     - From there search for ```xunit.runner.visualstudio``` and download.
 
